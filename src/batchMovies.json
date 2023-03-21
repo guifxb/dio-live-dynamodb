@@ -1,0 +1,31 @@
+{
+    "Movie": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Genre": {"S": "Action"},
+                  "MovieTitle": {"S": "Collide"},                  
+                  "ReleaseYear": {"S": "2022"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Genre": {"S": "Action"},
+                  "MovieTitle": {"S": "John Wick"},                  
+                  "ReleaseYear": {"S": "2014"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Genre": {"S": "Action"},
+                  "MovieTitle": {"S": "Scream"},                  
+                  "ReleaseYear": {"S": "1996"}
+                }
+            }
+        }
+      ]
+}

@@ -1,0 +1,5 @@
+{
+  "Genre": {"S": "Action"},
+  "MovieTitle": {"S": "John Wick"},                  
+  "ReleaseYear": {"S": "2014"}
+}

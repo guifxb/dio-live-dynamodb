@@ -1,4 +1,4 @@
 {
-    ":artist":{"S":"Iron Maiden"},
-    ":title":{"S":"Weekend Warrior"}
+    ":genre":{"S":"Action"},
+    ":movieTitle":{"S":"John Wick"}
 }
